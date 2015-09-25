@@ -1,0 +1,23 @@
+html {
+    background: rgba(255, 157, 0, 0.83);
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    padding: 2%;
+}
+
+.yellow {
+    color: lightgoldenrodyellow;
+    font-size: 200%;
+}
+
+a {
+    text-decoration: none;
+    
+}
